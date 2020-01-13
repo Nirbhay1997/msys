@@ -2,5 +2,5 @@
 
 # Project Title
 
-Msys Traning Programs Archive
+Msys Tranining Programs Archive
 
